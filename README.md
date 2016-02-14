@@ -1,5 +1,7 @@
 # Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
 
+[![Join the chat at https://gitter.im/yonecle/yonecle.github.io](https://badges.gitter.im/yonecle/yonecle.github.io.svg)](https://gitter.im/yonecle/yonecle.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
 Built with these awesome libraries:
